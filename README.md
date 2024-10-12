@@ -37,15 +37,3 @@ To get started with this project, follow these steps:
 - Users can browse products, add them to the cart, and place orders.
 - Customize and extend the project as needed for your specific requirements.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributing
-Contributions to this project are welcome. Please see the [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## Acknowledgments
-Special thanks to the Laravel community and all the contributors to the various technologies used in this project.
-
-## Contact
-If you have any questions or need further assistance, feel free to contact us at [contact@example.com].
-
